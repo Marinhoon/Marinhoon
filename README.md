@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">Meu nome é Vitor Marinho, Mais conhecido como Marinho e tenho 26 Anos! </p>
-
+<p align="left">🧑‍💻 Meu nome é Vitor Marinho, Mais conhecido como Marinho e tenho 26 Anos! </p>
+<p align="left">🌵Salvador-BA </p>
 ###
 
 <h2 align="left">Estou aqui para fazer tudo que amoo !</h2>
