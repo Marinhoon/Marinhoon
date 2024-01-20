@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde HTML CSS e JavaScript...<br>📚 Atualmente estou aprendendo React com TypeScript🧑🏼‍🔬 ...<br>🎯 Metas: ...<br>🎲 Curiosidade: ...</p>
+<p align="left">✨ Criando bugs desde HTML CSS e JavaScript...<br>📚 Atualmente estou aprendendo React com TypeScript🧑🏼‍🔬 ...<br>🎯 Metas: Conquistar o meu sonho.<br>🎲 Curiosidade: ...</p>
 
 ###
 
